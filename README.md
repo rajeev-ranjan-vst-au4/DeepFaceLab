@@ -36,3 +36,39 @@ DeepFaceLab is used by such popular youtube channels as
 </td></tr>
 
 </table>
+
+***
+## [Guides and tutorials](https://mrdeepfakes.com/forums/forum-guides-and-tutorials)
+***
+## [Ready to work facesets](https://mrdeepfakes.com/forums/forum-celebrity-facesets)
+***
+## Communication groups:
+
+[telegram (English / Russian)](https://t.me/DeepFaceLab_official)
+
+[mrdeepfakes (English)](https://mrdeepfakes.com/forums/) - the biggest SFW and NSFW community
+
+(Chinese) QQ group 951138799 for ML/AI experts
+
+[deepfakes (Chinese)](https://deepfakescn.com)
+
+[reddit r/GifFakes/ (English)](https://www.reddit.com/r/GifFakes/new/)
+
+[reddit r/SFWdeepfakes/ (English)](https://www.reddit.com/r/SFWdeepfakes/new/)
+***
+## How I can help the project?
+
+If you like this software, please consider a donation.
+
+Current GOAL: next DeepFaceLab update.
+
+[Donate via Yandex.Money](https://money.yandex.ru/to/41001142318065)
+
+[Donate via Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
+                    
+bitcoin:31mPd6DxPCzbpCMZk4k1koWAbErSyqkAXr
+***
+You can collect faceset of any celebrities that can be used in DeepFaceLab and share it [in the community](https://mrdeepfakes.com/forums/forum-celebrity-facesets)
+***
+<p align="center"><img src="doc/DeepFaceLab is working.png"></p>
+<sub>#deepfacelab #deepfakes #faceswap #face-swap #deep-learning #deeplearning #deep-neural-networks #deepface #deep-face-swap #fakeapp #fake-app #neural-networks #neural-nets</sub>
