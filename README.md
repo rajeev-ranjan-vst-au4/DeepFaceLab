@@ -35,13 +35,17 @@ DeepFaceLab is used by such popular youtube channels as
 
 </td></tr>
 
-</table>
+<tr><td align="center" width="9999">
 
-***
 ## [Guides and tutorials](https://mrdeepfakes.com/forums/forum-guides-and-tutorials)
-***
+</td></tr>
+
+<tr><td align="center" width="9999">
 ## [Ready to work facesets](https://mrdeepfakes.com/forums/forum-celebrity-facesets)
-***
+</td></tr>
+
+<tr><td align="center" width="9999">
+
 ## Communication groups:
 
 [telegram (English / Russian)](https://t.me/DeepFaceLab_official)
@@ -55,7 +59,10 @@ DeepFaceLab is used by such popular youtube channels as
 [reddit r/GifFakes/ (English)](https://www.reddit.com/r/GifFakes/new/)
 
 [reddit r/SFWdeepfakes/ (English)](https://www.reddit.com/r/SFWdeepfakes/new/)
-***
+
+</td></tr>
+
+<tr><td align="center" width="9999">
 ## How I can help the project?
 
 If you like this software, please consider a donation.
@@ -69,6 +76,13 @@ Current GOAL: next DeepFaceLab update.
 bitcoin:31mPd6DxPCzbpCMZk4k1koWAbErSyqkAXr
 ***
 You can collect faceset of any celebrities that can be used in DeepFaceLab and share it [in the community](https://mrdeepfakes.com/forums/forum-celebrity-facesets)
-***
+
+<tr><td align="center" width="9999">
+
+</td></tr>
+
 <p align="center"><img src="doc/DeepFaceLab is working.png"></p>
+
 <sub>#deepfacelab #deepfakes #faceswap #face-swap #deep-learning #deeplearning #deep-neural-networks #deepface #deep-face-swap #fakeapp #fake-app #neural-networks #neural-nets</sub>
+
+</table>
