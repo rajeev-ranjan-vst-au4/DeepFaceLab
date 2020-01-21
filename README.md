@@ -41,6 +41,7 @@ DeepFaceLab is used by such popular youtube channels as
 </td></tr>
 
 <tr><td align="center" width="9999">
+  
 ## [Ready to work facesets](https://mrdeepfakes.com/forums/forum-celebrity-facesets)
 </td></tr>
 
@@ -63,6 +64,7 @@ DeepFaceLab is used by such popular youtube channels as
 </td></tr>
 
 <tr><td align="center" width="9999">
+  
 ## How I can help the project?
 
 If you like this software, please consider a donation.
